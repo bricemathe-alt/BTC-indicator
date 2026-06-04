@@ -1,0 +1,6 @@
+{
+  "name": "Analyseur Bitcoin Autonome",
+  "description": "Analyseur autonome de Bitcoin analysant Coinglass, Twitter/X et d'autres signaux d'analyse technique de moins de 12h.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
